@@ -188,7 +188,7 @@ class Game{
     else if(Player.playerX.containsAll(6, 8)&&emptyCells.contains(7)){
       index=7;
     }
-    else if(Player.playerX.containsAll(6, 0)&&emptyCells.contains(3)){
+    else if(Player.playerX.containgit sAll(6, 0)&&emptyCells.contains(3)){
       index=3;
     }
     else if(Player.playerX.containsAll(7, 1)&&emptyCells.contains(4)){
